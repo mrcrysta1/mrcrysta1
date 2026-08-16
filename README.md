@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [E-Commerce Store](https://anwarlock.com)
+- 🔭 I’m currently working on full-stack web apps with **React**, **Laravel** and **Python**
 
 - 🌱 I’m currently learning **DevSecOps**
 
@@ -67,4 +67,4 @@
 
 
 ##
-<p align="center"> © 2024Creative Ali Hassan, all rights reserved❤. </p>
+<p align="center"> © 2026Creative Ali Hassan, all rights reserved❤. </p>
