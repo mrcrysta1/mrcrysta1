@@ -59,10 +59,6 @@
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcrysta1&show_icons=true&locale=en&layout=compact" alt="mrcrysta1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrcrysta1&show_icons=true&locale=en" alt="mrcrysta1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcrysta1&" alt="mrcrysta1" /></p>
 
 
